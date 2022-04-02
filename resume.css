@@ -1,0 +1,77 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.content{
+    border-left: 2px solid black;
+    border-right: 2px solid black;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+}
+.pname{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    color:floralwhite;
+    background-color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+.contact{
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 70px;
+    font-weight: bold;
+}
+.edu{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.skills{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+.projects{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+hr{
+    height: 2px;
+    background-color: black;
+    margin: 0 0 0 0;
+    width: 100% !important;
+}
+li{
+    line-height: 25px;
+}
+.workxp{
+    margin-left:50px;
+    margin-right: 50px;
+
+}
+.rep{
+    margin-left: 20px;
+    margin-right: 50px;
+
+}
+.achievements{
+    margin-left: 50px;
+    margin-right: 50px;
+
+}
+h2{
+    background-color: grey;
+    color: white;
+}
+li{
+    font-weight: 500;
+}
+h3{
+    text-transform: uppercase;
+}
+.years{
+    box-sizing: border-box;
+    display: inline;
+}
