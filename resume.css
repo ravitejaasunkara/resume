@@ -75,3 +75,26 @@ h3{
     box-sizing: border-box;
     display: inline;
 }
+
+/*Media Queries*/
+
+/*laptops and desktops*/
+@media only screen and (min-width:1200px) {
+
+}
+
+/*potrait mode for tabs*/
+@media only screen and (max-width:1023px) {
+
+
+}
+
+/*tabs*/
+@media only screen and (max-width:767px) {
+
+}
+
+/*normal phones*/
+@media only screen and (max-width:480px) {
+
+}
